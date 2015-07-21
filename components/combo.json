@@ -64,37 +64,37 @@
           "type": "circle",
           "diameter": 1,
           "style": "fill",
-	  "layer": ["top"],
+	  "layers": ["top"],
           "location": [5.2, 3.1]
 	},
 	{
 	  "type": "circle",
-	  "layer": ["top"],
+	  "layers": ["top"],
           "diameter": 1,
           "style": "fill",
 	  "location": [5.2, -3.1]
 	},
         {
           "type": "circle",
-	  "layer": ["bottom"],
+	  "layers": ["bottom"],
           "style": "stroke",
        	  "diameter": 10.5
         },
         {
           "type": "circle",
-	  "layer": ["bottom"],
+	  "layers": ["bottom"],
           "style": "stroke",
        	  "diameter": 5.5
         },
         {
           "type": "circle",
-	  "layer": ["bottom"],
+	  "layers": ["bottom"],
           "style": "stroke",
        	  "diameter": 3.5
         },
         {
           "type": "circle",
-	  "layer": ["bottom"],
+	  "layers": ["bottom"],
           "style": "stroke",
        	  "diameter": 8.5
         }
@@ -106,12 +106,12 @@
       [
 	{
 	  "type": "circle",
-	  "layer": ["bottom"],
+	  "layers": ["bottom"],
           "diameter": 10
 	},
 	{
 	  "type": "circle",
-	  "layer": ["bottom"],
+	  "layers": ["bottom"],
           "diameter": 11
 	}        
       ]
@@ -125,7 +125,7 @@
       [
         {
           "type": "circle",
-	  "layer": ["top", "bottom"],
+	  "layers": ["top", "bottom"],
           "outline": 0,
           "diameter": 1.7,
           "offset": [0, 0] 
@@ -145,7 +145,7 @@
       [
         {
           "type": "rect",
-	  "layer": ["top", "bottom"],
+	  "layers": ["top", "bottom"],
           "width": 1.7,
           "height": 1.7,
           "radii": {"tl": 0.3, "tr": 0.3, "bl": 0.3, "br": 0.3}
@@ -165,7 +165,7 @@
       [
         {
           "type": "rect",
-          "layer": ["top", "bottom"],
+          "layers": ["top", "bottom"],
           "width": 2,
           "height": 2,
           "radii": {"tl": 0, "tr": 0, "bl": 0.85, "br": 0}
