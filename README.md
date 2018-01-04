@@ -8,7 +8,7 @@ In the 1950s and 1960s inventive engineers saved space by using the 'cordwood' a
 
 * For more detailed information visit [boldport.com/products/cordwood-puzzle-second-edition/](https://www.boldport.com/products/cordwood-puzzle-second-edition/)
 * To see examples of builds visit the Boldport Club [community pages](http://community.boldport.club/projects/p03-cordwood/)
-* This project is produced and built using [PCBmodE](https://github.com/boldport/pcbmode) use version 3.9
+* This project is produced and built using [PCBmodE](https://github.com/boldport/pcbmode) use release version 3.9
 
 ![Cordwood puzzle PCB layout](/images/cordwood_pcb.png)
 
